@@ -4,7 +4,6 @@ This repository contains three projects as part of the CodSoft Internship Progra
 
 1. Task 1: Portfolio (HTML & CSS)
 In this task, I created a personal portfolio that showcases my skills, projects, and contact information. The design is responsive and has unique animations for a modern, clean interface.
-
 Features:
 Responsive layout.
 Navigation through sections (About, Skills, Projects, Resume, Contact).
@@ -13,6 +12,7 @@ Simple, clean, and visually appealing design.
 Technologies Used:
 HTML
 CSS
+<br>
 2. Task 2: Landing Page (HTML & CSS)
 For the second task, I developed a Landing Page that follows a clean and professional design. The landing page is optimized for different screen sizes, ensuring a consistent user experience across devices.
 
@@ -23,6 +23,7 @@ Eye-catching call-to-action elements.
 Technologies Used:
 HTML
 CSS
+<br>
 3. Task 3: Calculator (HTML, CSS, JavaScript)
 In this task, I built a simple calculator using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations (addition, subtraction, multiplication, and division) and has a user-friendly interface.
 
